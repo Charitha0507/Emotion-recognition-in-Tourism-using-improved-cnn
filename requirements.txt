@@ -1,0 +1,3 @@
+pip install emotion_recognition
+pip install pillow
+pip install PyEmotion
